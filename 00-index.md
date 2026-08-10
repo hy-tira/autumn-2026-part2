@@ -22,11 +22,11 @@ To complete the course, you must solve at least 5 problems from each week 1-7 an
 
 Exercise grading is determined by the number of problems solved as follows:
 
-* 35-36 problems: Grade 1 
-* 37-41 problems: Grade 2 
-* 42-46 problems: Grade 3 
+* 35-38 problems: Grade 1 
+* 39-42 problems: Grade 2 
+* 43-46 problems: Grade 3 
 * 47-51 problems: Grade 4 
-* 53-56 problems: Grade 5
+* 52-56 problems: Grade 5
 
 Exam consists of multiple-choice questions (10 points) testing topics of weeks 1-7 and a written assignment (2 points) testing topic of week 8, with the exam grade determined as follow:
 
