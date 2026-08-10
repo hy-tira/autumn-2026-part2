@@ -18,7 +18,7 @@ The self-study material found on this MOOC page is sufficient to complete the co
 
 The course consists of 8 weeks with 8 exercise problems on weeks 1-7; the content of the last week is only asked in the exam. All exercises have the same deadline and you can solve them at your own pace.
 
-To complete the course, you must solve at least 5 problems from weeks 1-7 and pass the exam. 
+To complete the course, you must solve at least 5 problems from each week 1-7 and pass the exam. 
 
 Exercise grading is determined by the number of problems solved as follows:
 
