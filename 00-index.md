@@ -2,67 +2,49 @@
 title: Course description
 permalink: /
 ---
-# Data Structures and Algorithms, spring 2026
+# Data Structures and Algorithms, Part II, Autumn 2026
 
-The course consists of two five credit course units, Part I and Part II. You can complete both parts during Spring 2026 by solving automatically checked exercises online with each part followed by an on-site exam.
+The course can be completed by solving automatically checked exercises online and then taking an on-site exam.
 
 The course format is the same for degree students of the University of Helsinki and for Open University students.
 
-To take the exam and receive official course credits, you need to register to the course: [Part I](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-f21366b3-31fc-485d-b932-21b8ca3c8dbe/BSCS10031) and [Part II](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-1f65a406-1e3d-4efe-89c7-dfb33ad32fb2).  
+To take the exam and receive official course credits, you need to register to the [course](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a384eec4-1180-4d47-a239-d0bd7699aef9/BSCS2006) <b>no later than 25 October</b>.    
 
 ## Material and Lectures
 
-The self-study material found on this MOOC page is sufficient to complete the course, but further material in Moodle (see the official course pages) regarding lectures may provide additional insights.  
-
-Part I covers the sections 1–8 (one section per week).
-
-Part II covers the sections 9–16.
-
-Course lectures take place on Fridays at 10-12 on the Exactum Campus (Room B222 for part I and  D123 for part II in the Exactum building). Lectures offer additional guidance to weekly topics.
+The self-study material found on this MOOC page is sufficient to complete the course, but further material in Moodle (see the official course page) may provide additional insights.  
 
 ## Exercises and Grading
 
-Each part consists of 8 weeks with 8 exercise problems in each week. All exercises of a part have the same deadline and you can solve them at your own pace.
+The course consists of 8 weeks with 8 exercise problems on weeks 1-7; the content of the last week is only asked in the exam. All exercises have the same deadline and you can solve them at your own pace.
 
-To complete a part, you must solve at least 5 problems from each week. The grading is determined by the number of problems solved as follows:
+To complete the course, you must solve at least 5 problems from weeks 1-7 and pass the exam. 
 
-* 40-44 problems: Grade 1 *)
-* 45-49 problems: Grade 2 *)
-* 50-54 problems: Grade 3 *)
-* 55-59 problems: Grade 4 *)
-* 60-64 problems: Grade 5 *)
+Exercise grading is determined by the number of problems solved as follows:
 
-*) 
-in addition, you must verify the grade in an on-site exam:
-* you need to get 50% correct of the multiple choice part of the exam to get any grade. When passing this minimum criteria: 
-* to verify grades 2,3, and 4 you need to get 60%, 70%, and 80% correct of the multiple choice part of the exam, respectively, otherwise the grade based on the exercises will be lowered by one
-* to verify grade 5 you need to get 80% correct of the multiple choice part of the exam and you need to solve a specific assignment, otherwise the grade based on the exercises will be lowered by one
+* 32-36 problems: Grade 1 
+* 37-41 problems: Grade 2 
+* 42-46 problems: Grade 3 
+* 47-51 problems: Grade 4 
+* 52-56 problems: Grade 5
 
-The deadline for Part I is Sunday, March 8 at 23:59. The exercise problems will be published according to the following schedule:
+Exam consists of multiple-choice questions (10 points) testing topics of weeks 1-7 and a written assignment (2 points) testing week 8 topic, with the exam grade determined as follow:
 
-{: .cell-w-3 }
-Week | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-Publication date | 15.1. | 16.1. | 22.1. | 23.1. | 29.1. | 30.1. | 5.2. | 6.2. |
+* 5 points: Grade 1 
+* 6 points: Grade 2 
+* 7 points: Grade 3 
+* 8 points: Grade 4
+* 9-12 points: Grade 5
 
-The deadline for Part II is Sunday, May 10 at 23:59. The exercise problems will be published according to the following schedule:
+Course total grade has 45% weight on the exercises and 55% weight on the exam, but you need at least grade 1 from each component to pass the course.
 
-{: .cell-w-3 }
-Week | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-Publication date | 12.3. | 13.3. | 19.3. | 20.3. | 26.3. | 27.3. | 1.4. | 10.4. |
+The deadline for exercises is Sunday, December 20 at 23:59. The exercise problems will be published at the start of the course.
 
 ## Guidance and contact information
 
-Guidance is available on Friday lectures, offered usually in study group style to encourage discussions.
+In person guidance is available on the Kumpula Campus on TBA.
 
-There is a Discord channel, where you can discuss with other students. [Join the group](https://study.cs.helsinki.fi/discord/join/tira)
-
-In person guidance is available on the Kumpula Campus on Wednesdays 12–16 and Fridays 12–16 in room BK107. 
-
-Discord and in person guidance are shared with the Finnish version of the course.
-
-<!--, room BK107 in Exactum on Tuesdays 14-18, Wednesdays 12-15 and Thursdays 10-13.--> 
-
-The responsible teacher of the course in Spring 2026 is Veli Mäkinen. You can contact him by [email](mailto:veli.makinen@helsinki.fi).
+The responsible teacher of the course in Autumn 2026 is Veli Mäkinen. You can contact him by [email](mailto:veli.makinen@helsinki.fi).
 
 <!--
 Kurssi muodostuu kahdesta 5 op laajuisesta osasuorituksesta. Keväällä 2024 voit suorittaa kurssin verkkokurssina, jonka materiaali on tällä sivustolla.
