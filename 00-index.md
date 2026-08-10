@@ -16,17 +16,17 @@ The self-study material found on this MOOC page is sufficient to complete the co
 
 ## Exercises and Grading
 
-The course consists of 8 weeks with 8 exercise problems on weeks 1-7; the content of the last week is only asked in the exam. All exercises have the same deadline and you can solve them at your own pace.
+The course consists of 8 weeks with 8 exercise problems on weeks 1-7 and one administrative exercise on week 8; the content of the last week is only asked in the exam. All exercises have the same deadline and you can solve them at your own pace.
 
 To complete the course, you must solve at least 5 problems from each week 1-7 and pass the exam. 
 
 Exercise grading is determined by the number of problems solved as follows:
 
-* 35-38 problems: Grade 1 
-* 39-42 problems: Grade 2 
-* 43-46 problems: Grade 3 
-* 47-51 problems: Grade 4 
-* 52-56 problems: Grade 5
+* 36-39 problems: Grade 1 
+* 40-43 problems: Grade 2 
+* 44-47 problems: Grade 3 
+* 48-52 problems: Grade 4 
+* 53-57 problems: Grade 5
 
 Exam consists of multiple-choice questions (10 points) testing topics of weeks 1-7 and a written assignment (2 points) testing topic of week 8, with the exam grade determined as follow:
 
