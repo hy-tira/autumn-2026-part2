@@ -42,7 +42,7 @@ The deadline for exercises is Sunday, December 20 at 23:59. The exercise problem
 
 ## Guidance and contact information
 
-In person guidance is available on the Kumpula Campus on TBA.
+In person guidance is available at the Kumpula Campus: See [course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a384eec4-1180-4d47-a239-d0bd7699aef9/BSCS2006) for the workshop schedule.
 
 The responsible teacher of the course in Autumn 2026 is Veli Mäkinen. You can contact him by [email](mailto:veli.makinen@helsinki.fi).
 
