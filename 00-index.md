@@ -14,7 +14,7 @@ To take the exam and receive official course credits, you need to register to th
 
 The self-study material found on this MOOC page is sufficient to complete the course, but further material in Moodle (see the official course page) may provide additional insights.  
 
-## Exercises and Grading
+## Exercises
 
 The course consists of 8 weeks with 8 exercise problems on weeks 1-7; the content of the last week is only asked in the exam. All exercises have the same deadline and you can solve them at your own pace.
 
@@ -28,6 +28,10 @@ Exercise grading is determined by the number of problems solved as follows:
 * 47-51 problems: Grade 4 
 * 52-57 problems: Grade 5
 
+The deadline for exercises is Sunday, December 20 at 23:59. The exercise problems will be published at the start of the course.
+
+## Exam 
+
 Exam consists of multiple-choice questions (10 points) testing topics of weeks 1-7 and a written assignment (2 points) testing topic of week 8, with the exam grade determined as follow:
 
 * 5 points: Grade 1 
@@ -36,9 +40,11 @@ Exam consists of multiple-choice questions (10 points) testing topics of weeks 1
 * 8 points: Grade 4
 * 9-12 points: Grade 5
 
-Course total grade has 45% weight on the exercises and 55% weight on the exam, but you need at least grade 1 from each component to pass the course.
+Check the [course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a384eec4-1180-4d47-a239-d0bd7699aef9/BSCS2006) for the instructions on the exam.
 
-The deadline for exercises is Sunday, December 20 at 23:59. The exercise problems will be published at the start of the course.
+## Grading 
+
+Course total grade has 45% weight on the exercises and 55% weight on the exam, but you need at least grade 1 from each component to pass the course.
 
 ## Guidance and contact information
 
