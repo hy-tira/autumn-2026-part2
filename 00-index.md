@@ -40,7 +40,7 @@ Exam consists of multiple-choice questions (10 points) testing topics of weeks 1
 * 8 points: Grade 4
 * 9-12 points: Grade 5
 
-Exam is available two weeks before and after the exercise deadline. Check the [course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a384eec4-1180-4d47-a239-d0bd7699aef9/BSCS2006) how to book your exam time slot.
+Exam is available (about) two weeks before and after the exercise deadline. Check the [course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-a384eec4-1180-4d47-a239-d0bd7699aef9/BSCS2006) how to book your exam time slot.
 
 ## Grading 
 
